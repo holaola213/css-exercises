@@ -76,6 +76,7 @@ a{
   align-content: center;
 }
 
+/*
 .left-links, .right-links{
 display: flex;
 gap: 8px;
